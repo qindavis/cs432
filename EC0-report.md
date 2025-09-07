@@ -9,9 +9,9 @@
 
 ## Answer
 
-The example figure below shows the growth in the number of websites between 1993 and 1996.
+The figure below is my cat, Berry!
 
-![\label{fig:myCat}](Screenshot%2025-04-12%000209.png)
+![My cat](Screenshot%202025-04-12%20000209.png)
 
 *If you want to include code in your report, you can insert a screenshot (if it's legible), or you can copy/paste the code into a fenced code block.*
 
